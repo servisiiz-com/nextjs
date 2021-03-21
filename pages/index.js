@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">İzmir Kombi Servisi!</a>
+          Welcome to <a href="https://servisiiz.com/">İzmir Kombi Servisi!</a>
         </h1>
 <center>
     <div class="row">
