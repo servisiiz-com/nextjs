@@ -30,7 +30,7 @@ export default function Home() {
                         <a href="https://servisiiz.com/izmir/alaska-beyaz-esya-kombi-klima-teknik-servisi.html" title="İzmir Alaska Teknik Servisi">İzmir Alaska Teknik Servisi</b></a>
 						</span> 
 						</div>
-                    </div>
+                    </div> 
  
 					<div class="col-md-4">
                         <div> <br>
